@@ -1,6 +1,4 @@
--I’m @theevilwesty
--Im currently studying at mmu university doing cyber security :)
--I’m currently learning how to use Java
+
 
 
 <!---
